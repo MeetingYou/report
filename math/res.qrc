@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="math.png">resources/math.png</file>
+        <file alias="question.png">resources/question.png</file>
+        <file alias="ps.png">resources/ps.png</file>
+    </qresource>
+    <qresource prefix="/doc">
+        <file alias="index.html">doc/index.html</file>
+        <file alias="one.html">doc/one.html</file>
+        <file alias="two.html">doc/two.html</file>
+        <file alias="three.html">doc/three.html</file>
+        <file alias="four.html">doc/four.html</file>
+        <file alias="five.html">doc/five.html</file>
+    </qresource>
+</RCC>
